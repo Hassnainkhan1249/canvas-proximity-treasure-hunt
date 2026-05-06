@@ -16,9 +16,18 @@ Canvas Proximity Treasure Hunt is an interactive browser-based game built with R
 - Vite
 - CSS
 
+
+## Live Demo
+
+Play the game here:  
+https://project-8p0b0-nlqehqm3g-hassnainkhan1249s-projects.vercel.app/
+
+
+
 ## How to Run Locally
 
 Clone the repository:
 
 ```bash
 git clone https://github.com/Hassnainkhan1249/canvas-proximity-treasure-hunt.git
+
